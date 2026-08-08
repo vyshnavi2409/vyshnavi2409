@@ -99,67 +99,8 @@ An AI-powered platform designed to help candidates improve their resumes and und
 
 ---
 
-## 🚀 MicroIntern — AI-Powered Skill Trial Platform
 
-A production-oriented platform designed to help organizations evaluate candidates through practical skill-based trials.
 
-### Architecture
-
-* PERN Stack
-* TypeScript
-* Next.js
-* Express.js
-* PostgreSQL
-* Prisma
-* Redis
-* BullMQ
-* AI Services
-* PNPM Monorepo
-* Turborepo
-
-### Key Concepts
-
-* Clean Architecture
-* Domain-Driven Design
-* REST APIs
-* Authentication & Authorization
-* Background Workers
-* Event-driven workflows
-* AI-powered candidate analysis
-* Scalable backend architecture
-
----
-
-## 🏢 HRFlow360 — ServiceNow HR Management Platform
-
-A comprehensive HR management solution built using ServiceNow.
-
-### Modules
-
-* Employee Management
-* Leave Management
-* HR Case Management
-* Knowledge Base
-* Employee Center
-* Virtual Agent
-* Notifications
-* Reports
-* Dashboards
-* Roles & ACLs
-* Workflow Automation
-
-### Technologies
-
-* ServiceNow
-* Flow Designer
-* Business Rules
-* Client Scripts
-* UI Policies
-* ACLs
-* Virtual Agent
-* Knowledge Management
-
----
 
 ## 🌐 Wanderlust — Full-Stack Web Application
 
