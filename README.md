@@ -1,263 +1,161 @@
-# Hi, I'm Vyshnavi 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World,%20I'm%20Vyshnavi!&fontSize=50&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
+</div>
 
-### Full-Stack Developer | AI Enthusiast | Problem Solver | SDE Aspirant
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Software+Development+Engineer+(SDE)+Aspirant;Problem+Solver+with+Data+Structures;Always+Learning+%26+Building!" alt="Typing SVG" />
+  </a>
+</h3>
 
-I'm a **Computer Science & Engineering student** passionate about building scalable web applications, AI-powered products, and solving problems with Data Structures & Algorithms.
+<div align="center">
+  <i>A Computer Science & Engineering student passionate about building scalable web applications, AI-powered products, and turning ideas into real-world applications.</i>
+</div>
+<br/>
 
-I enjoy turning ideas into real-world applications and continuously improving my skills in **Full-Stack Development, AI/ML, System Design, and Software Engineering**.
-
----
-
-## 🚀 About Me
-
-* 🎓 B.Tech in **Computer Science & Engineering**
-* 💻 Aspiring **Software Development Engineer (SDE)**
-* 🌱 Currently focusing on **Full-Stack Development, DSA & AI**
-* 🤖 Interested in building **AI-powered applications**
-* ☁️ Exploring **Cloud, DevOps & scalable backend systems**
-* 🏗️ Learning how to design **production-ready applications**
-* 🔧 Experienced with **ServiceNow development**
-* 📚 Currently strengthening my **Data Structures & Algorithms**
-* 💡 I enjoy building projects that solve practical problems
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma\&logoColor=white)
-
-### AI / ML
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-
-* Generative AI
-* RAG
-* AI Chatbots
-* Prompt Engineering
-* Resume Analysis
-* AI-powered Recommendation Systems
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-032D42?style=for-the-badge\&logo=servicenow\&logoColor=white)
+<div align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:vyshnavinakka5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
 
 ---
 
-# 💻 Featured Projects
-
-## 🤖 AI Resume Analyzer & Career Intelligence Platform
-
-An AI-powered platform designed to help candidates improve their resumes and understand their suitability for specific job opportunities.
-
-### Features
-
-* 📄 Resume upload and parsing
-* 🤖 AI-powered resume analysis
-* 📊 ATS score
-* 💼 Job Description analysis
-* 🎯 Resume vs Job Description matching
-* 🧠 Skill Gap Analysis
-* 🔑 Missing keyword detection
-* ✍️ AI resume improvement suggestions
-* 📈 Career roadmap generation
-* 🎤 AI interview preparation
-* 📝 AI cover letter generation
-* 📚 Learning recommendations
-
-**Focus:** AI + Full Stack Development + Career Intelligence
-
----
-
-
-
-
-## 🌐 Wanderlust — Full-Stack Web Application
-
-An Airbnb-inspired full-stack application focused on property listings and user interactions.
-
-### Concepts
-
-* Authentication
-* CRUD Operations
-* REST APIs
-* Database Integration
-* Responsive UI
-* Server-side development
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 About Me</h3>
+      <ul>
+        <li>🎓 B.Tech in <b>Computer Science & Engineering</b></li>
+        <li>💻 Aspiring <b>Software Development Engineer (SDE)</b></li>
+        <li>🤖 Interested in building <b>AI-powered applications</b></li>
+        <li>☁️ Exploring Cloud, DevOps & scalable backend systems</li>
+        <li>📚 Currently strengthening my <b>Data Structures & Algorithms</b></li>
+        <li>🔧 Experienced with <b>ServiceNow</b> development</li>
+        <li>💡 I enjoy building projects that solve practical problems</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 Career Goal</h3>
+      My goal is to become a strong <b>Software Development Engineer</b> capable of building complete products from idea to production. 
+      <br/><br/>
+      I'm particularly interested in:<br/>
+      🔹 Full-Stack Development<br/>
+      🔹 AI Engineering<br/>
+      🔹 Cloud Computing & Distributed Systems<br/>
+      🔹 System Design
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🧠 Data Structures & Algorithms
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
 
-I'm actively improving my problem-solving skills and preparing for software engineering interviews.
-
-### Topics I'm Working On
-
-* Arrays
-* Strings
-* Hashing
-* Sorting
-* Binary Search
-* Two Pointers
-* Sliding Window
-* Prefix Sum
-* Linked Lists
-* Stacks
-* Queues
-* Trees
-* Graphs
-* Recursion
-* Dynamic Programming
-* Greedy Algorithms
-
-### Problem Solving
-
-I regularly practice problems on:
-
-* LeetCode
-* GeeksforGeeks
-* Coding platforms
-
-My focus is not just solving problems, but understanding:
-
-**Brute Force → Optimization → Time Complexity → Space Complexity**
-
----
-
-# 🏗️ What I'm Currently Learning
-
-```text
-Full-Stack Development
-        ↓
-Backend Engineering
-        ↓
-System Design
-        ↓
-Artificial Intelligence
-        ↓
-Cloud & DevOps
-        ↓
-Production Engineering
-```
-
-Currently focusing on:
-
-* Advanced JavaScript / TypeScript
-* React & Next.js
-* Node.js & Express
-* PostgreSQL
-* Prisma
-* REST API Design
-* Authentication & Authorization
-* Redis
-* Background Jobs
-* Docker
-* AWS
-* AI APIs
-* RAG
-* System Design
-* Data Structures & Algorithms
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><b>Languages</b></td>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend & DBs</b></td>
+    <td align="center" width="25%"><b>Tools & AI</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 🎯 Career Goal
+<h3 align="center">📊 GitHub Stats & Strengths</h3>
 
-My goal is to become a strong **Software Development Engineer** capable of building complete products from idea to production.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=vyshnavi2409&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavi2409&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-I'm particularly interested in:
+<br/>
 
-```text
-Software Engineering
-Full-Stack Development
-Backend Engineering
-AI Engineering
-Cloud Computing
-System Design
-Distributed Systems
-```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyshnavi2409&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vyshnavi2409&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <!-- row=1 and column=7 enforces strict horizontal layout for trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vyshnavi2409&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophies" />
+</div>
 
 ---
 
-# 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavi2409&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 Achievements & Certifications
-
-* AWS Solutions Architect Associate
-* ServiceNow CSA
-* Microsoft Generative AI
-* Active DSA Problem Solving
-* Full-Stack Development Projects
-* ServiceNow Application Development
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/vyshnavi2409">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Featured Projects</h3>
+      <b>🤖 AI Resume Analyzer & Career Platform</b><br/>
+      An AI platform to help candidates improve resumes.<br/>
+      <i>Focus: AI, Full Stack, Resume parsing, ATS scoring.</i><br/><br/>
+      <b>🌐 Wanderlust</b><br/>
+      An Airbnb-inspired full-stack application.<br/>
+      <i>Focus: Auth, CRUD, REST APIs, Database Integration.</i>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Achievements & Focus</h3>
+      - ☁️ <b>AWS Solutions Architect Associate</b><br/>
+      - ⚙️ <b>ServiceNow CSA</b><br/>
+      - 🤖 <b>Microsoft Generative AI</b><br/>
+      <br/>
+      <b>🧠 Data Structures & Algorithms</b><br/>
+      Practicing on LeetCode & GFG.<br/>
+      <i>Philosophy: Brute Force → Optimization → Time Complexity → Space Complexity</i>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 💭 Developer Philosophy
+<div align="center">
+  <h3>💭 Developer Philosophy</h3>
+  <blockquote><i>"Build. Break. Learn. Improve. Repeat."</i></blockquote>
+  <p>I believe the best way to learn software engineering is to build real products, understand why things work, and continuously improve them.</p>
+  
+  <br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=vyshnavi2409&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-> **Build. Break. Learn. Improve. Repeat.**
-
-I believe the best way to learn software engineering is to build real products, understand why things work, and continuously improve them.
-
----
-
-⭐ If you find my projects interesting, feel free to explore my repositories and connect with me!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
