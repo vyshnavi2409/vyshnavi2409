@@ -98,28 +98,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats & Strengths</h3>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=vyshnavi2409&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnavi2409&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <!-- row=1 and column=7 enforces strict horizontal layout for trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=vyshnavi2409&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="Trophies" />
-</div>
-
----
-
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
